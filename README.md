@@ -1,9 +1,9 @@
-# 🌟 Hi there! 👋 Welcome to my world of code! 🚀
+# 🌟 Hi there! 👋 I'm [Your Name] 🚀
 
 ## 🏥 About Me
-I am a passionate **.NET Developer** with a keen interest in revolutionizing the **healthcare industry** through cutting-edge web applications. My expertise lies in developing **secure, scalable, and efficient** solutions that provide seamless user experiences. 
+I am **[Your Name]**, a dedicated **.NET Developer** specializing in building innovative web applications, particularly in the **healthcare industry**. With a strong focus on security, scalability, and efficiency, I create solutions that enhance user experiences and improve accessibility to medical services.
 
-I thrive on building robust authentication systems, role-based access control, and integrating smooth online payment experiences. Let’s turn ideas into impactful solutions! 💡
+Currently, I am developing a **multi-hospital healthcare platform** that enables patients to book appointments, make secure online payments, and maintain a medical history that doctors can update. My expertise includes **authentication systems, role-based access control, and seamless payment integration**.
 
 ---
 
@@ -25,6 +25,15 @@ I thrive on building robust authentication systems, role-based access control, a
 🛠 **Version Control:**  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 📌 **Project Management:**  ![Agile](https://img.shields.io/badge/-Agile-0077B5?style=flat-square&logo=jira&logoColor=white) ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+🎯 **Microservices Architecture**
+🎯 **Advanced .NET Security**
+🎯 **Cloud-Native Development (Azure & AWS)**
+🎯 **Blazor & Modern UI Frameworks**
+🎯 **AI Integration in Web Apps**
 
 ---
 
