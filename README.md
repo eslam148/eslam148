@@ -1,7 +1,7 @@
-# 🌟 Hi there! 👋 I'm [Your Name] 🚀
+# 🌟 Hi there! 👋 I'm Eslam Mohamed 🚀
 
 ## 🏥 About Me
-I am **[Your Name]**, a dedicated **.NET Developer** specializing in building innovative web applications, particularly in the **healthcare industry**. With a strong focus on security, scalability, and efficiency, I create solutions that enhance user experiences and improve accessibility to medical services.
+I am **Eslam**, a dedicated **.NET Developer** specializing in building innovative web applications, particularly in the **healthcare industry**. With a strong focus on security, scalability, and efficiency, I create solutions that enhance user experiences and improve accessibility to medical services.
 
 Currently, I am developing a **multi-hospital healthcare platform** that enables patients to book appointments, make secure online payments, and maintain a medical history that doctors can update. My expertise includes **authentication systems, role-based access control, and seamless payment integration**.
 
@@ -48,9 +48,8 @@ Currently, I am developing a **next-gen healthcare platform** that bridges the g
 ---
 
 ## 📬 Let's Connect!
-💌 **Email:** [Your Email]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
-🖥️ **GitHub:** [Your GitHub Profile]  
+💌 **Email:** islam12476794@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/eslam1998/  
 
 Excited to collaborate on game-changing projects! Let's build the future together! 🚀💡
 
